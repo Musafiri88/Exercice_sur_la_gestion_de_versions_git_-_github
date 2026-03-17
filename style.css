@@ -14,7 +14,7 @@ body{
 header{
     width: 98%;
     min-height: auto;
-    background-color: beige;
+    background-color: rgba(245, 245, 220, 0.845);
     align-self: center;
     display: flex;
     align-items: center;
